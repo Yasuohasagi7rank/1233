@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\123\bin\Release\123.exe.config
+C:\Users\Администратор\source\repos\123\bin\Release\123.exe
+C:\Users\Администратор\source\repos\123\bin\Release\123.pdb
+C:\Users\Администратор\source\repos\123\obj\Release\123.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\123\obj\Release\MainWindow.g.cs
+C:\Users\Администратор\source\repos\123\obj\Release\App.g.cs
+C:\Users\Администратор\source\repos\123\obj\Release\123_MarkupCompile.cache
+C:\Users\Администратор\source\repos\123\obj\Release\123_MarkupCompile.lref
+C:\Users\Администратор\source\repos\123\obj\Release\MainWindow.baml
+C:\Users\Администратор\source\repos\123\obj\Release\123.g.resources
+C:\Users\Администратор\source\repos\123\obj\Release\_123.Properties.Resources.resources
+C:\Users\Администратор\source\repos\123\obj\Release\123.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\123\obj\Release\123.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\123\obj\Release\123.exe
+C:\Users\Администратор\source\repos\123\obj\Release\123.pdb
